@@ -14,12 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/KingAngas/revision-fullstack/issues"
   },
   "homepage": "https://github.com/KingAngas/revision-fullstack#readme",
   "dependencies": {
+    "ejs": "^4.0.1",
     "express": "^5.2.1",
     "nodemon": "^3.1.11"
   }
